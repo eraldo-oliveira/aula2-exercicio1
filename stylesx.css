@@ -1,0 +1,16 @@
+
+.central {
+    width: 45%;
+    margin: 0 auto;
+    text-align: justify;
+}
+
+.flex {
+    display: flex;
+}
+
+.box1 {
+    margin-right: 10px;
+    width: 50%;
+}
+
